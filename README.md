@@ -15,12 +15,12 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 
 
 ## Future plan
-● We are planning to convert this to app\\
-● Connects to the fitness tracking app to track the time\\
-● Sentiment Analysis to understand the mood of the user and respond accordingly\\
-● TIMER to keep track of the time in which the given task has to be done\\
-● Automatic question generator based on the website link attached\\
+● We are planning to convert this to app\
+● Connects to the fitness tracking app to track the time\
+● Sentiment Analysis to understand the mood of the user and respond accordingly\
+● TIMER to keep track of the time in which the given task has to be done\
+● Automatic question generator based on the website link attached\
 ● Attractive notification system in such a way that the user doesn’t miss out and with
-  beautiful graphics showing the output of the particular task.\\
-● TIMER with a rewards system\\
+  beautiful graphics showing the output of the particular task.\
+● TIMER with a rewards system\
 
