@@ -13,6 +13,10 @@
 A bot to help you organize your day and remove procrastination. On some days, we'll not feel like doing anything. So this basically helps us to talk to the bot as a
 friend and which leads to ato-do list where we can input our tasks to be done and our free time. This automatically schedules the tasks giving each task a given amount of time. This can be converted to a pdf and downloaded.
 
+##Stacks Used
+1.Rasa
+2.Html,Css,Js
+3.Flask
 
 ## Future plan
 ● We are planning to convert this to app\
