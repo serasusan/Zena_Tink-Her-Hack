@@ -9,7 +9,7 @@
 4. [Aswathy K](https://github.com/aswathy5k)
 
 
-## Abstract
+## Main Functionalities
 A bot to help you organize your day and remove procrastination. On some days, we'll not feel like doing anything. So this basically helps us to talk to the bot as a
 friend and which leads to ato-do list where we can input our tasks to be done and our free time. This automatically schedules the tasks giving each task a given amount of time. This can be converted to a pdf and downloaded.
 
@@ -21,6 +21,17 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 2.Html,Css,Js
 
 3.Flask
+
+## Local Setup
+- Install Flask 2.2.2
+- Install Python 3.8.16
+- 
+   Setting up virtual environment for rasa 
+   
+      - install Rasa : `pip install rasa==2.0`
+      - creating virual environment : python -m venv ./venv
+
+- 
 
 ## Future plan
 ● We are planning to convert this to app\
