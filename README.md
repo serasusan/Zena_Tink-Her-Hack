@@ -51,9 +51,4 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 ● Timetable generated can be accessed by the user in pdf format.
 
 ##Link To The Video
-[Demo Video]
-<video width="320" height="240" autoplay muted>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+[Demo Video](https://www.veed.io/view/4c5fc275-1594-43ae-9cba-12c7f0c7f71c?source=compressor-sharing)
