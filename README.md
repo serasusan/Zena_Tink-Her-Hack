@@ -27,8 +27,8 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 - Install Python 3.8.16
 -  Setting up virtual environment for rasa 
    
-      - creating virual environment : python -m venv ./venv
-      - .\venv\Scripts\activate
+      - `creating virual environment : python -m venv ./venv`
+      - `.\venv\Scripts\activate`
      
 -  Installing Rasa
    
