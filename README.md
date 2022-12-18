@@ -8,6 +8,9 @@
 3. [Jesmi George](https://github.com/jesmigeorge)
 4. [Aswathy K](https://github.com/aswathy5k)
 
+## Link To The Video
+[Demo Video](https://www.veed.io/view/4c5fc275-1594-43ae-9cba-12c7f0c7f71c?source=compressor-sharing)
+
 
 ## Main Functionalities
 A bot to help you organize your day and remove procrastination. On some days, we'll not feel like doing anything. So this basically helps us to talk to the bot as a
@@ -50,5 +53,3 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 ● TIMER with a rewards system.\
 ● Timetable generated can be accessed by the user in pdf format.
 
-##Link To The Video
-[Demo Video](https://www.veed.io/view/4c5fc275-1594-43ae-9cba-12c7f0c7f71c?source=compressor-sharing)
