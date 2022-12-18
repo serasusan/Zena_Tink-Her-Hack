@@ -15,7 +15,9 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 
 ##Stacks Used
 1.Rasa
+
 2.Html,Css,Js
+
 3.Flask
 
 ## Future plan
