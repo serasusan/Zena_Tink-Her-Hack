@@ -47,7 +47,7 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 ● Automatic question generator based on the website link attached\
 ● Attractive notification system in such a way that the user doesn’t miss out and with
   beautiful graphics showing the output of the particular task.\
-● TIMER with a rewards system.
+● TIMER with a rewards system.\
 ● Timetable generated can be accessed by the user in pdf format.
 
 
