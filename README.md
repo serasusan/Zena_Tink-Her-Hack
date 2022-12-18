@@ -14,6 +14,7 @@ A bot to help you organize your day and remove procrastination. On some days, we
 friend and which leads to ato-do list where we can input our tasks to be done and our free time. This automatically schedules the tasks giving each task a given amount of time. This can be converted to a pdf and downloaded.
 
 ## Stacks Used
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
 
 1.Rasa
 
