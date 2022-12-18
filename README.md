@@ -25,13 +25,19 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 ## Local Setup
 - Install Flask 2.2.2
 - Install Python 3.8.16
-- 
-   Setting up virtual environment for rasa 
+-  Setting up virtual environment for rasa 
+   
+      - creating virual environment : python -m venv ./venv
+      - .\venv\Scripts\activate
+     
+-  Installing Rasa
    
       - install Rasa : `pip install rasa==2.0`
-      - creating virual environment : python -m venv ./venv
-
-- 
+ ## Bugs/Errors and issues faced
+   
+   Conflicts on python version as Rasa only supports 3.8 or below .
+   Flask supports 3.5 version or above but JavaScript requires upgraded version. 
+   
 
 ## Future plan
 ● We are planning to convert this to app\
