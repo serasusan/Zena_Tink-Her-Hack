@@ -36,7 +36,8 @@ friend and which leads to ato-do list where we can input our tasks to be done an
  ## Bugs/Errors and issues faced
    
    Conflicts on python version as Rasa only supports 3.8 or below .
-   Flask supports 3.5 version or above but JavaScript requires upgraded version. 
+   Flask supports 3.5 version or above but JavaScript requires upgraded version.\
+   <img src="https://ibb.co/MChTR1b">
    
 
 ## Future plan
