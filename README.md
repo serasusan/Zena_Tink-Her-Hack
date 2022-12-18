@@ -1,4 +1,4 @@
-# Amicus-productivity pal
+# Amicus-Your productivity pal
    At times people find it hard to cope up with procrastination.Amicus is a bot creating personalized time table with the task inputted. 
    
  
@@ -22,5 +22,5 @@ friend and which leads to ato-do list where we can input our tasks to be done an
 ● Automatic question generator based on the website link attached\
 ● Attractive notification system in such a way that the user doesn’t miss out and with
   beautiful graphics showing the output of the particular task.\
-● TIMER with a rewards system\
+● TIMER with a rewards system.
 
